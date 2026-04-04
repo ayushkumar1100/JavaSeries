@@ -1,3 +1,6 @@
+/* The number that is same from frontside and backside reading is called a palindrome number */
+
+
 class PalindromeNumberCheck{
     public static void main(String[] args){
         int num = 121, temp = num, rev = 0;
