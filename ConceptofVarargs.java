@@ -3,8 +3,9 @@ class SumNum{
         
         double sum=0;         
         for(double i:arr) sum+=i;
-        
-        
+    
+
+
         System.out.println((char)arr[arr.length-1]);  // printing the last element of the array which is a character in this case
         System.out.println("The sum is "+sum);
     }
